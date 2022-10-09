@@ -1,0 +1,31 @@
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\Estructure basic.exe.config
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\Estructure basic.exe
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\Estructure basic.pdb
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\OpenTK.dll
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\OpenTK.pdb
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\OpenTK.xml
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\obj\Debug\Estructure basic.csprojAssemblyReference.cache
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\obj\Debug\Estructure_basic.Properties.Resources.resources
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\obj\Debug\Estructure basic.csproj.GenerateResource.cache
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\obj\Debug\Estructure basic.csproj.CoreCompileInputs.cache
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\obj\Debug\Estructure basic.csproj.CopyComplete
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\obj\Debug\Estructure basic.exe
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\obj\Debug\Estructure basic.pdb
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\System.Buffers.dll
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\System.Memory.dll
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\System.Numerics.Vectors.dll
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\System.Text.Encodings.Web.dll
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\System.Text.Json.dll
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\System.ValueTuple.dll
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\System.Buffers.xml
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\System.Memory.xml
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\System.Numerics.Vectors.xml
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\System.Text.Encodings.Web.xml
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\System.Text.Json.xml
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\9no semestre\Grafica\proyectos\Estructure basic\Estructure basic\bin\Debug\System.ValueTuple.xml
